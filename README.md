@@ -1,7 +1,7 @@
 - 👋 Hi, I’m EmnaDebbabi a junior Data scientist
-- 👀 I’m interested in Machine learning, Deep learning, Data analysis, computer science development,...
+- 👀 I’m interested in Machine learning, Deep learning, Data analysis, Computer science development,...
 - 🌱 I’m currently learning advanced Python
-- 💞️ I’m looking to collaborate on diverse projects and ideas
+- 💞️ I’m looking to collaborate on diverse projects and new ideas
 - 📫 emna.debbabii@gmail.com
 
 <!---
