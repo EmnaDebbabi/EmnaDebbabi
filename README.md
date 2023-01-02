@@ -13,7 +13,7 @@
 - 📫 How to reach me: <a href = "mailto: emna.debbabii@gmail.com">emna.debbabii@gmail.com</a>
 
 ### Connect with me:
-[<img alt="alt_text" width="30px" src="https://e7.pngegg.com/pngimages/573/791/png-clipart-computer-icons-linkedin-logo-advertising-carex-blue-text.png" />](https://www.linkedin.com/in/debbabi-emna-/)
+[<img alt="alt_text" width="30px" src="https://img.freepik.com/free-icon/linkedin_318-183415.jpg?w=2000" />](https://www.linkedin.com/in/debbabi-emna-/)
 
 ### Languages and Tools:
 [<img alt="alt_text" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />](https://www.djangoproject.com/)
