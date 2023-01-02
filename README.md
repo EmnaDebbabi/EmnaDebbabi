@@ -13,12 +13,12 @@
 - 📫 How to reach me: <a href = "mailto: emna.debbabii@gmail.com">emna.debbabii@gmail.com</a>
 
 ### Connect with me:
-[<img alt="alt_text" width="30px" src="https://img.freepik.com/free-icon/linkedin_318-183415.jpg?w=2000" />](https://www.linkedin.com/in/debbabi-emna-/)
+[<img alt="alt_text" width="40px" src="https://img.freepik.com/free-icon/linkedin_318-183415.jpg?w=2000" />](https://www.linkedin.com/in/debbabi-emna-/)
 
 ### Languages and Tools:
-[<img alt="alt_text" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />](https://www.djangoproject.com/)
-[<img alt="alt_text" width="30px" src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" />](https://flask.palletsprojects.com/en/2.2.x/)
-[<img alt="alt_text" width="30px" src="https://banner2.cleanpng.com/20190612/vok/kisspng-cloud-computing-google-cloud-platform-cloud-storag-google-cloud-logo-png-image-free-download-searchpn-5d01a5ae4d22e9.530730771560389038316.jpg" />](https://www.docker.com/)
+[<img alt="alt_text" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />](https://www.djangoproject.com/)
+[<img alt="alt_text" width="40px" src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" />](https://flask.palletsprojects.com/en/2.2.x/)
+[<img alt="alt_text" width="40px" src="https://banner2.cleanpng.com/20190612/vok/kisspng-cloud-computing-google-cloud-platform-cloud-storag-google-cloud-logo-png-image-free-download-searchpn-5d01a5ae4d22e9.530730771560389038316.jpg" />](https://www.docker.com/)
 
 
 
