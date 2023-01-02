@@ -14,7 +14,7 @@
 
 ### Skills: Python, Data Viz, ML, NLP, DL
 
-![stack Overflow](http://lmsotfy.com/so.png)
+
 
 
 
