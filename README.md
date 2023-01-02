@@ -13,7 +13,7 @@
 - 📫 How to reach me: <a href = "mailto: emna.debbabii@gmail.com">emna.debbabii@gmail.com</a>
 
 ### Skills: Python, Data Viz, ML, NLP, DL
-
+[<img alt="alt_text" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />](https://www.google.com/)
 
 
 
