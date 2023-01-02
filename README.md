@@ -14,7 +14,7 @@
 
 ### Skills: Python, Data Viz, ML, NLP, DL
 [<img alt="alt_text" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />](https://www.djangoproject.com/)
-[<img alt="alt_text" width="40px" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" />](https://flask.palletsprojects.com/en/2.2.x/)
+[<img alt="alt_text" width="40px" src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" />](https://flask.palletsprojects.com/en/2.2.x/)
 
 
 
