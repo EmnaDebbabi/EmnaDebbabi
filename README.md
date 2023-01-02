@@ -4,7 +4,7 @@
 
 - 👋 Hands on Data Science. 
 
-- 👀 I’m interested in Python, Django, Flask, Statistical Modeling, Machine Learning, Natural Language Processing, Deep learning, Graph theory, Data analysis,...
+- 👀 I’m interested in <b> Python, Django, Flask, Statistical Modeling, Machine Learning, Natural Language Processing, Deep learning, Graph theory, Data analysis,...</b>
 
 - 🌱 I’m currently learning Cloud computing like AWS and Distributed systems like Databricks and Spark (pySpark and Spark with Java).
 
