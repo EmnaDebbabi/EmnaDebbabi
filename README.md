@@ -13,8 +13,8 @@
 - 📫 How to reach me: <a href = "mailto: emna.debbabii@gmail.com">emna.debbabii@gmail.com</a>
 
 ### Skills: Python, Data Viz, ML, NLP, DL
-[<img alt="alt_text" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />](https://www.djangoproject.com/)
-[<img alt="alt_text" width="40px" src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" />](https://flask.palletsprojects.com/en/2.2.x/)
+[<img alt="alt_text" width="20px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />](https://www.djangoproject.com/)
+[<img alt="alt_text" width="20px" src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" />](https://flask.palletsprojects.com/en/2.2.x/)
 
 
 
