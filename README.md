@@ -26,7 +26,7 @@
 [<img alt="alt_text" width="40px" src="logo/pytorch.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/scikit.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/seaborn.png" />](https://www.docker.com/)
-[<img alt="alt_text" width="40px" src="logo/Tensorflow.png" />](https://www.docker.com/)
+[<img alt="alt_text" width="40px" src="logo/tensorflow.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/openCV.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/git.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/googleCloud.png" />](https://www.docker.com/)
