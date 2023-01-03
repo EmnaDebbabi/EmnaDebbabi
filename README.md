@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in <b> Python, Django, Flask, Statistical Modeling, Machine Learning, Natural Language Processing, Deep learning, Graph theory, Data analysis,...</b>
 
-- 🌱 I’m currently learning Cloud computing like <b> AWS and </b> Distributed systems like <b> Databricks </b> and <b> Spark </b> (pySpark and Spark with Java).
+- 🌱 I’m currently learning Cloud computing like <b> AWS </b> and <b> Google Cloud Data Engineering Services </b> and Distributed systems like <b> Databricks </b> and <b> Spark </b> (pySpark and Spark with Java).
 
 - 💞️ I’m looking to collaborate on diverse projects and new ideas
 
