@@ -22,7 +22,7 @@
 [<img alt="alt_text" width="40px" src="logo/java.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/html.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/python.png" />](https://www.docker.com/)
-[<img alt="alt_text" width="40px" src="logo/Pandas.png" />](https://www.docker.com/)
+[<img alt="alt_text" width="40px" src="logo/PANDAS.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/pytorch.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/scikit.png" />](https://www.docker.com/)
 [<img alt="alt_text" width="40px" src="logo/seaborn.png" />](https://www.docker.com/)
