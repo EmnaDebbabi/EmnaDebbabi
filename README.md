@@ -17,8 +17,8 @@
 
 ### Languages and Tools:
 [<img alt="alt_text" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />](https://www.djangoproject.com/)
-[<img alt="alt_text" width="40px" src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" />](https://flask.palletsprojects.com/en/2.2.x/)
-[<img alt="alt_text" width="40px" src="https://banner2.cleanpng.com/20190612/vok/kisspng-cloud-computing-google-cloud-platform-cloud-storag-google-cloud-logo-png-image-free-download-searchpn-5d01a5ae4d22e9.530730771560389038316.jpg" />](https://www.docker.com/)
+[<img alt="alt_text" width="40px" src="logo/flask.png" />](https://flask.palletsprojects.com/en/2.2.x/)
+[<img alt="alt_text" width="40px" src="logo/docker.png" />](https://www.docker.com/)
 
 
 
